@@ -3,6 +3,10 @@
 Some stuffs learned in wargames from OverTheWires CTFs.
 
 - [Bandit](00-bandit/)
+- [Natas](01-natas/)
+- [Leviathan](02-leviathan/)
+- [Krypton](03-krypton/)
+- [Vortex](08-vortex/)
 
 ## Bandit cheatsheets
 
