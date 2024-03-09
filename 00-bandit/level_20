@@ -1,0 +1,4 @@
+echo "VxCazJaVykI6W36BkBU0mJTCM8rR95XT" | nc -l 8080 &
+./suconnect 8080
+
+Flag: NvEJF7oVjkddltPSrdKEFOllh9V1IBcq

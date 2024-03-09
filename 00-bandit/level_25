@@ -1,0 +1,8 @@
+cat /etc/passwd | grep bandit26
+cat /usr/bin/showtext
+
+# TRICK: Set the height of terminal to minimal, this will force more command paginate the banner.
+# Press v to open vim from more command
+# :e /etc/bandit_pass/bandit26
+
+Flag: c7GvcKlw9mC7aUQaPx7nwFstuAIBw1o1

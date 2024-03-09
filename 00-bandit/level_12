@@ -1,0 +1,12 @@
+mkdir -p /tmp/pjt1
+cat data.txt | xxd -r > /tmp/pjt1/dump1
+zcat dump1 > dump2
+bzcat dump2 > dump3
+zcat dump3 > dump4
+tar -xf dump4
+tar -xf data5.bin
+bzcat data6.bin > dump5
+tar -xf dump5
+zcat data8.bin
+
+Flag: wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw

@@ -1,0 +1,5 @@
+ssh -i level_13_privatekey bandit14@bandit.labs.overthewire.org -p 2220
+
+cat /etc/bandit_pass/bandit14
+
+Flag: fGrHPx402xGC7U7rXKDaxiWFTOiF0ENq

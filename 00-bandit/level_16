@@ -1,0 +1,14 @@
+cluFn7wTiGryunymYOu4RcffSxQluehd
+
+nmap -p 31000-32000 --script ssl-enum-ciphers localhost
+
+PORTS OPENED:
+31046
+31518 SSL
+31691
+31790 SSL
+31960
+
+echo "JQttfApK4SeyHwDlI9SXGR50qclOAil1" | openssl s_client -ign_eof -connect localhost:31790
+
+Flag: PRIVATE_KEY

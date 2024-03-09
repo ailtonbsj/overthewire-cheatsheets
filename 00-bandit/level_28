@@ -1,0 +1,4 @@
+git clone ssh://bandit28-git@bandit.labs.overthewire.org:2220/home/bandit28-git/repo
+git checkout f08b9cc63fa1a4602fb065257633c2dae6e5651b
+
+Flag: tQKvmcwNYcFS6vmPHIUSI3ShmsrQZK8S

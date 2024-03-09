@@ -1,0 +1,5 @@
+cd inhere
+file $(find . -iname "*-*")
+cat ./-file07
+
+Flag: lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR

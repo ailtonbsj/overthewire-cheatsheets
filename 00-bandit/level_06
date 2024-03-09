@@ -1,0 +1,6 @@
+ls -l $(find / -size 33c 2>/dev/null) 2>/dev/null | grep bandit7
+
+find / -user bandit7 -group bandit6 2>/dev/null
+cat /var/lib/dpkg/info/bandit7.password
+
+Flag: z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S

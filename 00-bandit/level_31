@@ -1,0 +1,6 @@
+git clone ssh://bandit31-git@bandit.labs.overthewire.org:2220/home/bandit31-git/repo
+echo 'May I come in?' > key.txt
+git commit -m 'May I come in?'
+git push origin master
+
+Flag: rmCBvG56y58BXzv98yZGdO7ATVL5dW8y

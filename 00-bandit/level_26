@@ -1,0 +1,8 @@
+# TRICK: Set the height of terminal to minimal, this will force more command paginate the banner.
+# Press v to open vim from more command
+# :set shell=/bin/bash
+# :shell
+
+./bandit27-do cat /etc/bandit_pass/bandit27
+
+Flag: YnQpBuifNMas1hcUFk70ZmqkhUU2EuaS

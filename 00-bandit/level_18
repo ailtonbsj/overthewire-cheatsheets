@@ -1,0 +1,4 @@
+ssh bandit18@bandit.labs.overthewire.org -p 2220 /bin/bash
+cat readme
+
+Flag: awhqfNnAbc1naukrpqDYcF95h7HoMTrC

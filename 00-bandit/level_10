@@ -1,0 +1,3 @@
+cat data.txt | base64 -d
+
+Flag: 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM

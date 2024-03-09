@@ -1,0 +1,4 @@
+git clone ssh://bandit29-git@bandit.labs.overthewire.org:2220/home/bandit29-git/repo
+git checkout remotes/origin/dev
+
+Flag: xbhV3HpNGlTIdnjUrdAlPzc2L6y9EOnS

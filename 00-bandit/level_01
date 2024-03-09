@@ -1,0 +1,5 @@
+ssh bandit1@bandit.labs.overthewire.org -p 2220
+
+cat < -
+
+Flag: rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi

